@@ -1,0 +1,16 @@
+Table.bordered  { border-collapse: collapse; border: 1px solid #ff0000; margin: 10px 0px 10px 0px; }
+    Table.bordered tr th, table.bordered tr td { font-family:"Verdana"; vertical-align: top; padding: 4px; border: 1px solid #a0a0a0; font-size:11px}
+    Table.bordered tr th { background-color: #F5F5FF; }
+    Table.bordered tr td.group { background-color: #F5F5FF; }
+    .MandatoryText
+    {
+    COLOR: DarkRed;
+    FONT-FAMILY: "Verdana";
+    FONT-SIZE: 9pt;
+    FONT-WEIGHT: regular;
+    }
+
+    .unomlogo{
+        padding-left: 100px;
+        padding-top: 12px;
+    }
