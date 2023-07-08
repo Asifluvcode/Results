@@ -11,4 +11,5 @@ This is the Front-end model of the University Results generation Site.......
 4. TO implement new Interface
 
 # Technologies Used
-None other than complete Pure HTML and css
+>> HTML
+>> CSS
